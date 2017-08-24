@@ -7,4 +7,4 @@ You can get it from nuget via the Package Manager:<br>
 You can get it from nuget via the .NET CLI:<br>
 `dotnet add package WQYeo.ShannonEntropy --version 1.0.0`
 
-Otherwise, you can install it from nuget (here)[https://www.nuget.org/packages/WQYeo.ShannonEntropy/].
+Otherwise, you can install it from nuget [here](https://www.nuget.org/packages/WQYeo.ShannonEntropy/).
